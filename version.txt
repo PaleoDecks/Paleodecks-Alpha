@@ -1,0 +1,11 @@
+<version>
+
+
+<lastupdateYYMMDD>220627</lastupdateYYMMDD>
+
+<versionurl></versionurl>
+
+<updateurl>https://raw.githubusercontent.com/PaleoDecks/Paleodecks-Alpha/main/updatelist.txt</updateurl>
+
+
+</version>
