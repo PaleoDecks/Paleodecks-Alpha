@@ -5,10 +5,6 @@
 <initialvalue>20</initialvalue>
 </playerstat>
 
-<playerstat>
-<label>Turn</label>
-</playerstat>
-
 <deckzone>
 <label>Deck</label>
 <shuffle>yes</shuffle>
@@ -19,13 +15,13 @@
 </deckzone>
 
 <gamezone>
-<label>Hand</label>
-<visibletoowner>yes</visibletoowner>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 <gamezone>
-<label>Deck</label>
-<visibletoowner>yes</visibletoowner>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
 </gamezone>
 
 <gamezone>
@@ -41,43 +37,42 @@
 </gamezone>
 
 <generalfunction>
-            <label>Ready All</label>
-            <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
-            <includeasbutton>yes</includeasbutton>
-</generalfunction>
-
-
-<generalfunction>
             <label>Draw</label>
             <kind>DRAWCARD</kind>
             <includeasbutton>yes</includeasbutton>
 </generalfunction>
 
-
 <generalfunction>
-            <label>Previous Phase<label>
-            <kind>PREVIOUSPHASE</kind>
+	<label>Mill</label>
+		<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+		<sourcegamezone>Deck</sourcegamezone>
+		<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Discard</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 
-
 <generalfunction>
-            <label>Next Phase</label>
-            <kind>NEXTPHASE</kind>
+            <label>Ready All</label>
+            <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+            <includeasbutton>yes</includeasbutton>
 </generalfunction>
 
 <cardfunction>
-<label>Rest</label>
-<kind>MAKERIGHT90DEGREES</kind>
+	<label>Rest</label>
+	<kind>MAKERIGHT90DEGREES</kind>
 </cardfunction>
 
 <cardfunction>
-<label>Ready</label>
-<kind>MAKERIGHT0DEGREES</kind>
+	<label>Ready</label>
+	<kind>MAKERIGHT0DEGREES</kind>
 </cardfunction>
 
 <cardfunction>
 <label>Flip</label>
-<kind>TURNOVER<kind>
+<kind>TURNOVER</kind>
 </cardfunction>
 
 <definition>
