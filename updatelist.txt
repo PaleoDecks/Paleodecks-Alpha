@@ -1,4 +1,4 @@
-Paleodecks_Alpha	06-19-22
+Paleodecks_Alpha	06-27-22
 plugins/Paleodecks_Alpha/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/Paleodecks-Alpha/main/plugininfo.txt	132888
 plugins/Paleodecks_Alpha/pluginpreferences.txt	https://raw.githubusercontent.com/PaleoDecks/Paleodecks-Alpha/main/pluginpreferences.txt	230165
 plugins/Paleodecks_Alpha/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/Paleodecks-Alpha/main/cardback.jpg	7560
