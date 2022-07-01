@@ -19,7 +19,7 @@ Archaeopteryx	PDCG	PDCG-017	Primal	Frost	2	1	1200	1300	At the start of yiur turn
 Shantungosaurus	PDCG	PDCG-018	Primal	Frost	2	1	1300	1200	When this Primal is played, you may play a beacon from your deck in rest mode.						PDCG-018
 Nyctosaurus	PDCG	PDCG-019	Primal	Frost	1	1	1000	1100	When this Primal is played. look at the top three cards of your deck. Select 1 Frost Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-019
 Yinlong	PDCG	PDCG-020	Primal	Frost	1	1	1100	1000	When this Primal is played, draw a card.						PDCG-020
-Tupandactylus	PDCG	PDCG-021	Primal	Wind	6	3	2000	2000	When this Primal wins a battle, you may choose 1 card in your opponent's hand and discard it. Then your opponent may choose 1 card in their hand and discard it. If they don't, they lose 1 Life Point.						PDCG-021
+Tupandactylus	PDCG	PDCG-021	Primal	Wind	6	3	2000	2000	When this Primal wins a battle, you may randomly choose 1 card in your opponent's hand and discard it. Then your opponent may choose 1 card in their hand and discard it. If they don't, they lose 1 Life Point.						PDCG-021
 Argentavis	PDCG	PDCG-022	Primal	Wind	5	3	1800	1800	When this Primal wins a battle, you may choose and discard 1 Primal for every Life Point your opponent lost from your opponent's field.						PDCG-022
 Torosaurus	PDCG	PDCG-023	Primal	Wind	4	2	1700	1600	When this Primal wins a battle, choose 1 of your opponent's Primals who's charge is equal to or lesser to the defeated Primal's charge and discard it.						PDCG-023
 Meganeura	PDCG	PDCG-024	Primal	Wind	4	2	1600	1700	If your opponent has discarded a card this turn, this Primal gains +200 attack power for the turn.						PDCG-024
@@ -101,7 +101,7 @@ Predator Instinct	PDCG	PDCG-099	Move	Neutral			+300 or+600		If you use this move
 Ironclad	PDCG	PDCG-100	Move	Neutral			+300 or+600		If you use this move during your opponent's turn, it gives +600 instead of +300						PDCG-100
 Stable Beacon	PDCG	PDCG-101	Beacon		1			1800							PDCG-101
 Unstable Beacon	PDCG	PDCG-102	Beacon		2			1600							PDCG-102
-Experimental Beacon	PDCG	PDCG-102	Beacon		3			1400							PDCG-102
+Experimental Beacon	PDCG	PDCG-103	Beacon		3			1400							PDCG-103
 Theoretical Beacon	PDCG	PDCG-104	Beacon		4			1200							PDCG-104
 Magnus Holt	PDCG	PDCG-105	Character										All primals of the element Fire gain +100 Atk	Choose 1 of your Fire primals in play. It gains +500 Atk until it loses a battle. Place this card under the chosen primal.	PDCG-105
 Vale Crywell	PDCG	PDCG-106	Character										Once per turn, when one of your Frost primals wins a battle during your turn, draw 2 cards.	When your draw pile is depeted, move all cards in your discard pile to your draw pile. Then shuffle your deck.	PDCG-106
