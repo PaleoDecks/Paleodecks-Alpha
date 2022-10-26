@@ -1,121 +1,149 @@
-Name	Set	ImageFile	Type	Element	Charge	Life Points	ATK Power	DEF Power	Card Text	-	-	-	Passive	Active	Number
-Pyroraptor	PDCG	PDCG-001	Primal	Fire	6	3	2200	1800	[Activate] During your turn, you may discard 2 Fire Cards, if you do, this Primal gains +300 ATK Power and "[Win:Primal] During your turn; Your opponent loses 2 additional Life Points" to its card text the next time it battles						PDCG-001
-Alioramus	PDCG	PDCG-002	Primal	Fire	5	3	2000	1600	[Battle] During your turn; You may discard one of your Primals that you have in play. If you do, this Primal gains +600 ATK Power for the battle.						PDCG-002
-Tyrannosaurus	PDCG	PDCG-003	Primal	Fire	4	2	1900	1400	[Win:Primal] During your turn; Your opponent loses 1 additional Life Point						PDCG-003
-Deinonychus	PDCG	PDCG-004	Primal	Fire	4	2	1800	1500	[Auto] If your opponent has lost Life Points from an effect this turn, this Primal gains +400 ATK power for the turn.						PDCG-004
-Ampelosaurus	PDCG	PDCG-005	Primal	Fire	3	2	1600	1300	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose one of your Primals in play, it gains +300 ATK Power for the turn.						PDCG-005
-Guanlong	PDCG	PDCG-006	Primal	Fire	3	2	1700	1200	[Play] Your opponent loses 1 Life Point						PDCG-006
-Dimorphodon	PDCG	PDCG-007	Primal	Fire	2	1	1500	1000	[Battle:Primal] You may discard this card from your hand and pay 1 life. If you do, the attacking Primal gains "[Win:Primal] During your turn; your opponent loses 1 additional Life Point" to it's card text.						PDCG-007
-Spiclypeus	PDCG	PDCG-008	Primal	Fire	2	1	1400	1100	[Auto] When this Primal uses a non-super move, it gains +300 attack power for the battle.						PDCG-008
-Draconyx	PDCG	PDCG-009	Primal	Fire	1	1	1300	800	[Play] Look at the top three cards of your deck. Select 1 Fire Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-009
-Dire Wolf	PDCG	PDCG-010	Primal	Fire	1	1	1200	900	[Auto] When this Primal attacks directly, your opponent loses 1 additional Life Point.						PDCG-010
-Mammoth	PDCG	PDCG-011	Primal	Frost	6	3	2000	2000	[Battle:Primal] You choose one of your beacons and damage it, if you do, this Primal gains +300 ATK/DEF for the battle and your opponent loses 1 Life Point.						PDCG-011
-Antarctopelta	PDCG	PDCG-012	Primal	Frost	5	3	1800	1800	[Battle:Primal] During your turn; choose 1:	Draw a card	Choose 1 of your Beacons and switch it to active mode				PDCG-012
-Cetiosaurus	PDCG	PDCG-013	Primal	Frost	4	2	1600	1700	[Win:Primal] You may play a beacon from your hand						PDCG-013
-Elasmotherium	PDCG	PDCG-014	Primal	Frost	4	2	1700	1600	[Win] Draw 1 card						PDCG-014
-Cryolophosaurus	PDCG	PDCG-015	Primal	Frost	3	2	1400	1500	[Play] Your opponent may choose to lose 1 Life Point. If they don't, draw 2 cards.						PDCG-015
-Glacialisaurus	PDCG	PDCG-016	Primal	Frost	3	2	1500	1400	[Win] You may send it from your field to your discard pile, if you do, draw 2 cards.						PDCG-016
-Archaeopteryx	PDCG	PDCG-017	Primal	Frost	2	1	1200	1300	[Activate] At the start of yiur turn; you may discard a card. If you do, draw 1 card.						PDCG-017
-Shantungosaurus	PDCG	PDCG-018	Primal	Frost	2	1	1300	1200	[Play] You may play a beacon from your deck in rest mode.						PDCG-018
-Nyctosaurus	PDCG	PDCG-019	Primal	Frost	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Frost Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-019
-Yinlong	PDCG	PDCG-020	Primal	Frost	1	1	1100	1000	[Play] Draw a card.						PDCG-020
-Tupandactylus	PDCG	PDCG-021	Primal	Wind	6	3	2000	2000	[Win:Primal] You may choose 1 card in your opponent's hand at random and discard it. Then your opponent may choose 1 card in their hand and discard it. If they don't, they lose 1 Life Point.						PDCG-021
-Argentavis	PDCG	PDCG-022	Primal	Wind	5	3	1800	1800	[Win:Prinal] You may choose and discard 1 Primal for every Life Point your opponent lost from your opponent's field.						PDCG-022
-Torosaurus	PDCG	PDCG-023	Primal	Wind	4	2	1700	1600	[Win:Primal] Choose 1 of your opponent's Primals who's charge is equal to or lesser to the defeated Primal's charge and discard it.						PDCG-023
-Meganeura	PDCG	PDCG-024	Primal	Wind	4	2	1600	1700	[Auto] If your opponent has discarded a card this turn, this Primal gains +200 attack power for the turn.						PDCG-024
-Pteradactyl	PDCG	PDCG-025	Primal	Wind	3	2	1400	1500	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose one of your opponent's Primals in play and discard it.						PDCG-025
-Yutyrannus	PDCG	PDCG-026	Primal	Wind	3	2	1500	1400	When this Primal wins a battle, choose 1 card randomly from your opponent's hand and place it at the bottom of their deck.						PDCG-026
-Iguanodon	PDCG	PDCG-027	Primal	Wind	2	1	1200	1300	When this Primal is played, choose 1 card randomly from your opponent's hand and discard it.						PDCG-027
-Nanosaurus	PDCG	PDCG-028	Primal	Wind	2	1	1300	1200	When this Primal is played, choose 1 of your opponent's Primals and return it to its owner's hand						PDCG-028
-Hesperosaurus	PDCG	PDCG-029	Primal	Wind	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Wind Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-029
-Paraceratherium	PDCG	PDCG-030	Primal	Wind	1	1	1100	1000	[Play] Choose 1 of your opponent's level 2 or lower Primals and discard it.						PDCG-030
-Diplodocus	PDCG	PDCG-031	Primal	Earth	6	3	1800	2200	[Win:Primal] During your opponent's turn; Your opponent loses 1 additional Life Point. [Permanent] Your opponent can't attack other Primals while this Primal is on the field						PDCG-031
-Dacentrurus	PDCG	PDCG-032	Primal	Earth	5	3	1600	2000	[Auto] At the end of every turn while this Primal is in play, your opponent loses 1 Life Point						PDCG-032
-Stegosaurus	PDCG	PDCG-033	Primal	Earth	4	2	1400	1900	[Auto] When your opponent attacks, they must choose 1 card in their hand and discard it.						PDCG-033
-Yangchuanosaurus	PDCG	PDCG-034	Primal	Earth	4	2	1500	1800	[Auto] When this Primal loses a battle in which it was defending, you may discard an earth card from your hand. If you do, this Primal isn't sent to your discard pile. (You don't lose any Life Points)						PDCG-034
-Invictarx	PDCG	PDCG-035	Primal	Earth	3	2	1300	1600	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose 1 of your Primals, the next time it battles, it doesn’t leave play even if it's defeated (You don’t lose any Life Points)						PDCG-035
-Dreadnoughtus	PDCG	PDCG-036	Primal	Earth	3	2	1200	1700	[Auto] At the end of your opponent's turn, if this Primal is in play, your opponent loses 1 Life Point						PDCG-036
-Titanoceratops	PDCG	PDCG-037	Primal	Earth	2	1	1000	1500	[Auto] When your opponent attacks, you may discard one earth card from your hand. If you do, your opponent cannot play super moves during that battle.						PDCG-037
-Megatherium	PDCG	PDCG-038	Primal	Earth	2	1	1100	1400	[Win:Primal] You may return one of your other Primals in play to your hand.						PDCG-038
-Dakotaraptor	PDCG	PDCG-039	Primal	Earth	1	1	800	1300	[Play] Look at the top three cards of your deck. Select 1 Earth Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-039
-Carbonyms	PDCG	PDCG-040	Primal	Earth	1	1	900	1200	[Battle] When one of your Primals in play is attacked; You may play this card from your hand. If you do, switch the attack's target to this card.						PDCG-040
-Saurophaganax	PDCG	PDCG-041	Primal	Electric	6	3	2200	1800	[Activate] If you have 3 beacons and 3 Electic Primals in play; You may play this Primal from your hand. [Win:Primal] You may discard one of your Electric Primals in play, if you do, your opponent loses 1 additional Life Point.						PDCG-041
-Kaprosuchus	PDCG	PDCG-042	Primal	Electric	5	3	2000	1600	[Permanent] This Primal gains +100 ATK Power for every Primal on your field.						PDCG-042
-Carnotaurus	PDCG	PDCG-043	Primal	Electric	4	2	1900	1400	[Win] If you used a Super Move; You may search your deck for a Primal and put it into your hand. If you do, shuffle your deck.						PDCG-043
-Gigantopithecus	PDCG	PDCG-044	Primal	Electric	4	2	1800	1500	[Win] During your turn; You may discard a card from your hand, if you do, choose a Primal in your hand and play it.						PDCG-044
-Centrosaurus	PDCG	PDCG-045	Primal	Electric	3	2	1600	1300	[Play] Your opponent may choose to lose 1 Life Point. If they don't, you may search your deck for a Primal with 4 or less charge, then shuffle your deck.						PDCG-045
-Sordes	PDCG	PDCG-046	Primal	Electric	3	2	1700	1200	[Win:Primal] During your turn; you may play a Primal from your hand that's charge is equal to the defeated Primal.						PDCG-046
-Saichania	PDCG	PDCG-047	Primal	Electric	2	1	1500	1000	[Activate] During your start phase, you may discard this Primal, if you do, you may search your deck for a Level 3 Primal and put it into your hand, then shuffle your deck.						PDCG-047
-Oviraptor	PDCG	PDCG-048	Primal	Electric	2	1	1400	1100	[Play] You may flip over the top card of your deck. If it's a Primal, you may play it. If it isn't, discard the card.						PDCG-048
-Altirhinus	PDCG	PDCG-049	Primal	Electric	1	1	1300	800	[Play] Look at the top three cards of your deck. Select 1 Electric Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-049
-Velociraptor	PDCG	PDCG-050	Primal	Electric	1	1	1200	900	[Permanent] While this Primal is in play, additional copies of this card are treated as if they have no charge.						PDCG-050
-Parasaurolophus	PDCG	PDCG-051	Primal	Water	6	3	1800	2200	[Play] Heal 2 Life Points. [Win] Heal 1 Life Point						PDCG-051
-Quetzalcoatlus	PDCG	PDCG-052	Primal	Water	5	3	1600	2000	[Permanent] Your Primals gain +200 Atk/Def power.						PDCG-052
-Dilophosaurus	PDCG	PDCG-053	Primal	Water	4	2	1400	1900	[Win] You may choose 1 Primal in your discard pile and play it.						PDCG-053
-Futabasaurus	PDCG	PDCG-054	Primal	Water	4	2	1500	1800	[Win:Primal] You gain Life Points equal to that of the defeated Primal's Life Points						PDCG-054
-Maiasauraa	PDCG	PDCG-055	Primal	Water	3	2	1300	1600	[Play] Your opponent may choose to lose 1 Life Point. If they don't, you may choose one Primal in your discard pile and return it to your hand.						PDCG-055
-Stygimoloch	PDCG	PDCG-056	Primal	Water	3	2	1200	1700	[Activate] During your turn, you may discard this Primal, if you do, choose 1:  	Heal 2 Life Points	Choose 1 Primal in your discard Pile, and play it				PDCG-056
-Triceratops	PDCG	PDCG-057	Primal	Water	2	1	1000	1500	[Auto] If you've gained Life Points this turn, all of your Primals gain 100 Atk power until the end of the turn						PDCG-057
-Amargasaurus	PDCG	PDCG-058	Primal	Water	2	1	1100	1400	[Play] Choose 1 Primal in your Discard pile with a charge of 3 or less and add it to your hand						PDCG-058
-Doedicurus	PDCG	PDCG-059	Primal	Water	1	1	800	1300	[Play] Look at the top three cards of your deck. Select 1 Water Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-059
-Smilodon	PDCG	PDCG-060	Primal	Water	1	1	900	1200	[Win] During your turn; You may heal 1 Life Point						PDCG-060
-Therizinosaurus	PDCG	PDCG-061	Primal	Void	6	3	2000	2000	[Win] Choose 1:	Discard 4 cards from the top of your deck.	Send 4 cards from your discard pile to your deck. Then shuffle your deck.	Your opponent discards the top 4 cards of their deck.			PDCG-061
-Kosmoceratops	PDCG	PDCG-062	Primal	Void	5	3	1800	1800	[Auto] When this Primal is sent to your discard pile from your deck, you may play it. If you do, this Primal gains 200 attack for the turn and the next time it wins a battle, your opponent loses 1 extra Life Point.						PDCG-062
-Carcharodontosaurus	PDCG	PDCG-063	Primal	Void	4	2	1600	1700	[Auto] When this Primal is sent to your discard pile from your deck, you may play it from your discard pile						PDCG-063
-Kamuysaurus	PDCG	PDCG-064	Primal	Void	4	2	1700	1600	[Win:Primal] During your turn; Both you and your opponent discard cards from the top of your deck equal to the number of Life Points lost that battle.						PDCG-064
-Abydosaurus	PDCG	PDCG-065	Primal	Void	3	2	1500	1400	[Play] Your opponent may choose to lose 1 Life Point. If they don't, both you and your opponent discard 2 cards from the top of your deck						PDCG-065
-Prognathodon	PDCG	PDCG-066	Primal	Void	3	2	1400	1500	[Auto] When this Primal is sent to your discard pile, your opponent loses 1 Life Point						PDCG-066
-Minotaurasaurus	PDCG	PDCG-067	Primal	Void	2	1	1200	1300	[Auto] When this Primal is sent to your discard pile, you may add 1 card from your discard pile to your hand.						PDCG-067
-Utahraptor	PDCG	PDCG-068	Primal	Void	2	1	1300	1200	[Play] Both you and your opponent discard the top card of your deck						PDCG-068
-Hatzegopteryx	PDCG	PDCG-069	Primal	Void	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Void Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-069
-Arctotherium	PDCG	PDCG-070	Primal	Void	1	1	1100	1000	[Auto] When this Primal is sent to your discard pile, draw a card						PDCG-070
-Thermal Grave	PDCG	PDCG-071	Super Move	Fire			+400		If you win this battle during your turn, your opponent loses 1 additional Life Point.						PDCG-071
-Igneous Hammer	PDCG	PDCG-072	Super Move	Fire			+1000		You can only play this move during your turn						PDCG-072
-Heart of Fire	PDCG	PDCG-073	Super Move	Fire			+800		(Vanilla)						PDCG-073
-Cold Snap	PDCG	PDCG-074	Super Move	Frost			+300		If you win this battle, play a beacon from your hand						PDCG-074
-Frost Bite	PDCG	PDCG-075	Super Move	Frost			+400		If you win this battle, draw a card						PDCG-075
-Heart of Frost	PDCG	PDCG-076	Super Move	Frost			+800		(Vanilla)						PDCG-076
-Zephyr Blade	PDCG	PDCG-077	Super Move	Wind			+300		If you win this battle, choose one of your opponent's Primal's in play and discard it.						PDCG-077
-Vexing Gale	PDCG	PDCG-078	Super Move	Wind			+400		If you win this battle, your opponent discards a card from their hand						PDCG-078
-Heart of Wind	PDCG	PDCG-079	Super Move	Wind			+800		(Vanilla)						PDCG-079
-Terra Tomb	PDCG	PDCG-080	Super Move	Earth			+400		If you win this battle during your opponent's turn, choose 1 of your opponent's Primals, it can't attack this turn.						PDCG-080
-Rocky Phalanx	PDCG	PDCG-081	Super Move	Earth			+1000		You can only play this move during your opponent's turn.						PDCG-081
-Heart of Earth	PDCG	PDCG-082	Super Move	Earth			+800		(Vanilla)						PDCG-082
-Power Amp	PDCG	PDCG-083	Super Move	Electric			+300		If you win this battle, search your deck for a Primal with a charge equal to or less than the defeated Primal.						PDCG-083
-Voltaic Charge	PDCG	PDCG-084	Super Move	Electric			+400		If you win this battle, you may play a Primal from your hand with a charge equal to or less than the defeated Primal						PDCG-084
-Heart of Thunder	PDCG	PDCG-085	Super Move	Electric			+800		(Vanilla)						PDCG-085
-Tact Refresher	PDCG	PDCG-086	Super Move	Water			+300		If you win this battle, gain 1 Life Point						PDCG-086
-Miracle Wave	PDCG	PDCG-087	Super Move	Water			+400		If you win this battle, choose 1:	All of your Primals gain +100 ATK Power till the start of your next turn.	All of your Primals gain +100 DEF Power till the start of your next turn				PDCG-087
-Heart of Water	PDCG	PDCG-088	Super Move	Water			+800		(Vanilla)						PDCG-088
-Necro Call	PDCG	PDCG-089	Super Move	Void			+300		If you win this battle, choose 1 card in your discard pile and add it to your hand.						PDCG-089
-Soul Syphon	PDCG	PDCG-090	Super Move	Void			+400		If you win this battle, both you and your opponent discard cards from the top of your decks equal to the Life Points of the defeated Primal.						PDCG-090
-Heart of Void	PDCG	PDCG-091	Super Move	Void			+800		(Vanilla)						PDCG-091
-Reverse Polarity	PDCG	PDCG-092	Move	Neutral			+400		If you're attacking, use this Primal's DEF power. If you're defending, use this Primal's ATK power						PDCG-092
-Renewed Vigor	PDCG	PDCG-093	Move	Neutral			+200		If you win this battle, choose one of your rested Primals and switch it to active mode						PDCG-093
-Pylon Fusion	PDCG	PDCG-094	Move	Neutral			+300		This move gains +100 Power for every one of your beacons in play						PDCG-094
-Huntmaster's Creed	PDCG	PDCG-095	Move	Neutral			+100		If you win this batle, your opponent loses 1 additional Life Point						PDCG-095
-Venerate Me	PDCG	PDCG-096	Move	Neutral			+200 or +1500		If you have 5 or less life, this Move give +1500 Power instead of +200						PDCG-096
-Primal Tempo	PDCG	PDCG-097	Move	Neutral			+500		(Vanilla)						PDCG-097
-Atomic Misfire	PDCG	PDCG-098	Move	Neutral			+800		Even if you win this battle, your Primal is sent to your discard pile and you lose Life Points equal to its Life.						PDCG-098
-Predator Instinct	PDCG	PDCG-099	Move	Neutral			+300 or+600		If you use this move during your turn, it gives +600 instead of +300						PDCG-099
-Ironclad	PDCG	PDCG-100	Move	Neutral			+300 or+600		If you use this move during your opponent's turn, it gives +600 instead of +300						PDCG-100
-Stable Beacon	PDCG	PDCG-101	Beacon		1			1800							PDCG-101
-Unstable Beacon	PDCG	PDCG-102	Beacon		2			1600							PDCG-102
-Experimental Beacon	PDCG	PDCG-103	Beacon		3			1400							PDCG-103
-Theoretical Beacon	PDCG	PDCG-104	Beacon		4			1200							PDCG-104
-Magnus Hohlt	PDCG	PDCG-105	Character										[Permanent] Your Fire Primals gain +100 ATK Power	[Activate] Choose 1 of your Fire Primals in play; Place this card under the chosen Primal. The chosen Primal gains +500 ATK Power until it loses a battle. 	PDCG-105
-Vale Crywell	PDCG	PDCG-106	Character										[Win:Primal] Once per turn, When one of your Frost Primals wins a battle during your turn: draw 2 cards.	[Activate] Shuffle your discard pile face down. Put the top 15 cards back into your deck. All other cards remain in your discard pile.	PDCG-106
-Elizabeth "Beetle" Azure	PDCG	PDCG-107	Character										[Win:Primal] Once per turn; When one of your Wind Primals wins a battle during your turn; your opponent must choose 1 card from their hand to discard.	[Activate] Choose 1 of your opponents Primals in play to send to their discard pile, they do not lose Life Points. All other opponent Primals in play return to their hand.	PDCG-107
-Isaac Ridley	PDCG	PDCG-108	Character										[Permanent] Your Earth Primals gain +100 DEF Power.	[Activate] Choose 1 of your Earth Primals in play; Place this card under the chosen Primal. It gains +500 DEF Power until it loses a battle. 	PDCG-108
-Andrei Elding	PDCG	PDCG-109	Character										[Win:Primal] Once per turn, When one of your Electric Primals wins a battle during your turn; you can search your deck for another copy of this Primal and put it in your hand. Then shuffle your deck	[Activate] Flip over the top 5 cards of your deck and if there are any Electric Primals, summon them. If at least 3 of the cards are Electric type, add the rest of the cards to your hand. Otherwise discard the remainder of the 5 cards.	PDCG-109
-Vay Lynn Cooper	PDCG	PDCG-110	Character										[Win:Primal] Once per turn, When you win a battle with a Water Primal during your turn; You gain Life Points equal to half your opponents losing Primals life value, rounded up.	[Activate] Heal 3 Life Points.	PDCG-110
-Avidar Kren	PDCG	PDCG-111	Character										[Win:Primal] Once per turn, When one of your Void Primals wins a battle during your turn; both you and your opponent must discard the top 2 cards on your decks.	[Activate] You or your opponent discard cards from the top of their deck equal to the amount of cards in their hand.	PDCG-111
-James McCallister	PDCG	PDCG-112	Character										[Auto] During your turn, when you win a battle using a super move; Your opponent loses 1 extra Life Point.	[Activate] Choose 1 of your Primals in play; Place this card under the chosen Primal. When that Primal wins a battle during your turn, the opponent loses 2 extra Life Points.	PDCG-112
-Anomoly	PDCG	PDCG-113	Character										[Auto] Once per turn during your draw phase, you may discard a card from your hand and draw a new one.	[Activate] Search your deck for 3 cards of your choice and put them in your hand. Then shuffle your deck.	PDCG-113
-Enzo Jones	PDCG	PDCG-114	Character										[Permanent] Each of your Primals in play gains +50 Defense power for each additional Primal in play on your side of the field.	[Activate] Chose 1 of your Primals in play; Place this card under the chosen Primal. The next time this Primal loses a battle, it stays in play and you lose 1 Life Point.	PDCG-114
-Scarlett Floyd	PDCG	PDCG-115	Character										[Auto] During your end phase, if you have at least 1 Primal in play, place 1 card from your draw pile under this card.	[Activate] Move all cards under this card into your hand	PDCG-115
-Prof. Marc Aesh	PDCG	PDCG-116	Character										[Auto] Once per turn, when one of your Primals wins a battle during your turn,; you can play a beacon card.	[Activate] During your turn, you can play this card as a beacon card that gives +4 Charge with 1 Durability and 1800 Defense power.”	PDCG-116
-John Smith	PDCG	PDCG-117	Character										[Auto] If you and your opponent tie during a battle; your Primal wins the battle	[Activate] If your opponent has at least 4 Life Points more than you; You can play this card to gain 2 Life Points and cause your opponent to lose 2 Life Points.	PDCG-117
-Solaris Pendergast	PDCG	PDCG-118	Character										[Auto] At the end of your turn, if your opponent has no Primals in play, they lose 1 Life Point. (Unless you are going first and its your first turn)	After you lose a battle, you can play this card to not lose any Life Points from the battle.”	PDCG-118
-Astra Barton	PDCG	PDCG-119	Character										[Activate] Once per turn; You may recall a Primal in play to your hand. If you do, you cannot summon that Primal until the start of your next turn.	[Activate] Play this card to retrieve 2 Primals from your Discard Pile and put them into your hand.	PDCG-119
-Kuromi Toragane	PDCG	PDCG-120	Character										[Auto] During your start phase, choose 1 of your opponents Primals in play to return to their hand.	[Activate] Take control of an opponents Primal in play until it is defeated. Turn the chosen Primal upside down.	PDCG-120
+Name	Set	ImageFile	Type	Element	Charge	Life Points	ATK Power	DEF Power	Card Text	-	-	-	Passive	Active	Number										
+Pyroraptor	PDCG	PDCG-001	Primal	Fire	6	3	2200	1800	[Activate] During your turn, you may discard 2 Fire Cards, if you do, this Primal gains +300 Atk and "[Win:Primal] During your turn; Your opponent loses 2 additional Life Points" to its card text for the turn.						PDCG-001										
+Alioramus	PDCG	PDCG-002	Primal	Fire	5	3	2000	1600	[Battle] During your turn; You may discard one of your Primals that you have in play. If you do, this Primal gains +600 Atk for the battle.						PDCG-002										
+Tyrannosaurus	PDCG	PDCG-003	Primal	Fire	4	2	1900	1400	[Win:Primal] During your turn; Your opponent loses 1 additional Life Point						PDCG-003										
+Deinonychus	PDCG	PDCG-004	Primal	Fire	4	2	1800	1500	[Auto] If your opponent has lost Life Points from an effect this turn, this Primal gains +400 Atk for the turn.						PDCG-004										
+Ampelosaurus	PDCG	PDCG-005	Primal	Fire	3	2	1600	1300	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose one of your Primals in play, it gains +300 Atk for the turn.						PDCG-005										
+Guanlong	PDCG	PDCG-006	Primal	Fire	3	2	1700	1200	[Play] Your opponent loses 1 Life Point						PDCG-006										
+Dimorphodon	PDCG	PDCG-007	Primal	Fire	2	1	1500	1000	[Battle:Primal] You may discard this card from your hand and pay 1 life. If you do, the attacking Primal gains "[Win:Primal] During your turn; your opponent loses 1 additional Life Point" to it's card text for the turn.						PDCG-007										
+Spiclypeus	PDCG	PDCG-008	Primal	Fire	2	1	1400	1100	[Auto] When this Primal uses a non-super move, it gains +300 Atk for the battle.						PDCG-008										
+Draconyx	PDCG	PDCG-009	Primal	Fire	1	1	1300	800	[Play] Look at the top three cards of your deck. Select 1 Fire Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-009										
+Dire Wolf	PDCG	PDCG-010	Primal	Fire	1	1	1200	900	[Auto] When this Primal attacks directly, your opponent loses 1 additional Life Point.						PDCG-010										
+Mammoth	PDCG	PDCG-011	Primal	Frost	6	3	2000	2000	[Battle:Primal] You choose one of your beacons and damage it, if you do, this Primal gains +300 Atk/Def for the battle and your opponent loses 1 Life Point.						PDCG-011										
+Antarctopelta	PDCG	PDCG-012	Primal	Frost	5	3	1800	1800	[Battle:Primal] During your turn; choose 1:	Draw a card	Choose 1 of your Beacons and switch it to active mode				PDCG-012										
+Cetiosaurus	PDCG	PDCG-013	Primal	Frost	4	2	1600	1700	[Win:Primal] You may play a beacon from your hand						PDCG-013										
+Elasmotherium	PDCG	PDCG-014	Primal	Frost	4	2	1700	1600	[Win] Draw 1 card						PDCG-014										
+Cryolophosaurus	PDCG	PDCG-015	Primal	Frost	3	2	1400	1500	[Play] Your opponent may choose to lose 1 Life Point. If they don't, draw 2 cards.						PDCG-015										
+Glacialisaurus	PDCG	PDCG-016	Primal	Frost	3	2	1500	1400	[Win] You may send it from your field to your discard pile, if you do, draw 2 cards.						PDCG-016										
+Archaeopteryx	PDCG	PDCG-017	Primal	Frost	2	1	1200	1300	[Activate] At the start of yiur turn; you may discard a card. If you do, draw 1 card.						PDCG-017										
+Shantungosaurus	PDCG	PDCG-018	Primal	Frost	2	1	1300	1200	[Play] You may play a beacon from your deck in rest mode.						PDCG-018										
+Nyctosaurus	PDCG	PDCG-019	Primal	Frost	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Frost Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-019										
+Yinlong	PDCG	PDCG-020	Primal	Frost	1	1	1100	1000	[Play] Draw a card.						PDCG-020										
+Tupandactylus	PDCG	PDCG-021	Primal	Wind	6	3	2000	2000	[Win:Primal] You may choose 1 card in your opponent's hand at random and discard it. Then your opponent may choose 1 card in their hand and discard it. If they don't, they lose 1 Life Point.						PDCG-021										
+Argentavis	PDCG	PDCG-022	Primal	Wind	5	3	1800	1800	[Win:Prinal] You may choose and discard 1 Primal for every Life Point your opponent lost from your opponent's field.						PDCG-022										
+Torosaurus	PDCG	PDCG-023	Primal	Wind	4	2	1700	1600	[Win:Primal] Choose 1 of your opponent's Primals who's charge is equal to or lesser to the defeated Primal's charge and discard it.						PDCG-023										
+Meganeura	PDCG	PDCG-024	Primal	Wind	4	2	1600	1700	[Auto] If your opponent has discarded a card this turn, this Primal gains +200 Atk for the turn.						PDCG-024										
+Pteradactyl	PDCG	PDCG-025	Primal	Wind	3	2	1400	1500	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose one of your opponent's Primals in play and discard it.						PDCG-025										
+Yutyrannus	PDCG	PDCG-026	Primal	Wind	3	2	1500	1400	When this Primal wins a battle, choose 1 card randomly from your opponent's hand and place it at the bottom of their deck.						PDCG-026										
+Iguanodon	PDCG	PDCG-027	Primal	Wind	2	1	1200	1300	When this Primal is played, choose 1 card randomly from your opponent's hand and discard it.						PDCG-027										
+Nanosaurus	PDCG	PDCG-028	Primal	Wind	2	1	1300	1200	When this Primal is played, choose 1 of your opponent's Primals and return it to its owner's hand						PDCG-028										
+Hesperosaurus	PDCG	PDCG-029	Primal	Wind	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Wind Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-029										
+Paraceratherium	PDCG	PDCG-030	Primal	Wind	1	1	1100	1000	[Play] Choose 1 of your opponent's level 2 or lower Primals and discard it.						PDCG-030										
+Diplodocus	PDCG	PDCG-031	Primal	Earth	6	3	1800	2200	[Win:Primal] During your opponent's turn; Your opponent loses 1 additional Life Point. [Permanent] Your opponent can't attack other Primals while this Primal is on the field						PDCG-031										
+Dacentrurus	PDCG	PDCG-032	Primal	Earth	5	3	1600	2000	[Auto] At the end of every turn while this Primal is in play, your opponent loses 1 Life Point						PDCG-032										
+Stegosaurus	PDCG	PDCG-033	Primal	Earth	4	2	1400	1900	[Auto] When your opponent attacks, they must choose 1 card in their hand and discard it.						PDCG-033										
+Yangchuanosaurus	PDCG	PDCG-034	Primal	Earth	4	2	1500	1800	[Auto] When this Primal loses a battle in which it was defending, you may discard an earth card from your hand. If you do, this Primal isn't sent to your discard pile. (You don't lose any Life Points)						PDCG-034										
+Invictarx	PDCG	PDCG-035	Primal	Earth	3	2	1300	1600	[Play] Your opponent may choose to lose 1 Life Point. If they don't, choose 1 of your Primals, the next time it battles, it doesn’t leave play even if it's defeated (You don’t lose any Life Points)						PDCG-035										
+Dreadnoughtus	PDCG	PDCG-036	Primal	Earth	3	2	1200	1700	[Auto] At the end of your opponent's turn, if this Primal is in play, your opponent loses 1 Life Point						PDCG-036										
+Titanoceratops	PDCG	PDCG-037	Primal	Earth	2	1	1000	1500	[Auto] When your opponent attacks, you may discard one earth card from your hand. If you do, your opponent cannot play super moves during that battle.						PDCG-037										
+Megatherium	PDCG	PDCG-038	Primal	Earth	2	1	1100	1400	[Win:Primal] You may return one of your other Primals in play to your hand.						PDCG-038										
+Dakotaraptor	PDCG	PDCG-039	Primal	Earth	1	1	800	1300	[Play] Look at the top three cards of your deck. Select 1 Earth Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-039										
+Carbonyms	PDCG	PDCG-040	Primal	Earth	1	1	900	1200	[Battle] When one of your Primals in play is attacked; You may play this card from your hand. If you do, switch the attack's target to this card.						PDCG-040										
+Saurophaganax	PDCG	PDCG-041	Primal	Electric	6	3	2200	1800	[Activate] If you have 3 beacons and 3 Electic Primals in play; You may play this Primal from your hand. [Win:Primal] You may discard one of your Electric Primals in play, if you do, your opponent loses 1 additional Life Point.						PDCG-041										
+Kaprosuchus	PDCG	PDCG-042	Primal	Electric	5	3	2000	1600	[Permanent] This Primal gains +100 Atk for each additional Primal on your field.						PDCG-042										
+Carnotaurus	PDCG	PDCG-043	Primal	Electric	4	2	1900	1400	[Win] If you used a Super Move; You may search your deck for a Primal and put it into your hand. If you do, shuffle your deck.						PDCG-043										
+Gigantopithecus	PDCG	PDCG-044	Primal	Electric	4	2	1800	1500	[Win] During your turn; You may discard a card from your hand, if you do, choose a Primal in your hand and play it.						PDCG-044										
+Centrosaurus	PDCG	PDCG-045	Primal	Electric	3	2	1600	1300	[Play] Your opponent may choose to lose 1 Life Point. If they don't, you may search your deck for a Primal with 4 or less charge, then shuffle your deck.						PDCG-045										
+Sordes	PDCG	PDCG-046	Primal	Electric	3	2	1700	1200	[Win:Primal] During your turn; you may play a Primal from your hand that's charge is equal to the defeated Primal.						PDCG-046										
+Saichania	PDCG	PDCG-047	Primal	Electric	2	1	1500	1000	[Activate] During your start phase, you may discard this Primal, if you do, you may search your deck for a Level 3 Primal and put it into your hand, then shuffle your deck.						PDCG-047										
+Oviraptor	PDCG	PDCG-048	Primal	Electric	2	1	1400	1100	[Play] You may flip over the top card of your deck. If it's a Primal, you may play it. If it isn't, discard the card.						PDCG-048										
+Altirhinus	PDCG	PDCG-049	Primal	Electric	1	1	1300	800	[Play] Look at the top three cards of your deck. Select 1 Electric Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-049										
+Velociraptor	PDCG	PDCG-050	Primal	Electric	1	1	1200	900	[Permanent] While this Primal is in play, additional copies of this card are treated as if they have no charge.						PDCG-050										
+Parasaurolophus	PDCG	PDCG-051	Primal	Water	6	3	1800	2200	[Play] Heal 2 Life Points. [Win] Heal 1 Life Point						PDCG-051										
+Quetzalcoatlus	PDCG	PDCG-052	Primal	Water	5	3	1600	2000	[Permanent] Your Primals gain +200 Atk/Def						PDCG-052										
+Dilophosaurus	PDCG	PDCG-053	Primal	Water	4	2	1400	1900	[Win] You may choose 1 Primal in your discard pile and play it.						PDCG-053										
+Futabasaurus	PDCG	PDCG-054	Primal	Water	4	2	1500	1800	[Win:Primal] You gain Life Points equal to that of the defeated Primal's Life Points						PDCG-054										
+Maiasaura	PDCG	PDCG-055	Primal	Water	3	2	1300	1600	[Play] Your opponent may choose to lose 1 Life Point. If they don't, you may choose one Primal in your discard pile and return it to your hand.						PDCG-055										
+Stygimoloch	PDCG	PDCG-056	Primal	Water	3	2	1200	1700	[Activate] During your start phase, you may discard this Primal, if you do, choose 1:  	Heal 2 Life Points	Choose 1 Primal in your discard Pile, and play it				PDCG-056										
+Triceratops	PDCG	PDCG-057	Primal	Water	2	1	1000	1500	[Auto] If you've gained Life Points this turn, all of your Primals gain 100 Atk until the end of the turn						PDCG-057										
+Amargasaurus	PDCG	PDCG-058	Primal	Water	2	1	1100	1400	[Play] Choose 1 Primal in your Discard pile with a charge of 3 or less and add it to your hand						PDCG-058										
+Doedicurus	PDCG	PDCG-059	Primal	Water	1	1	800	1300	[Play] Look at the top three cards of your deck. Select 1 Water Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-059										
+Smilodon	PDCG	PDCG-060	Primal	Water	1	1	900	1200	[Win] During your turn; You may heal 1 Life Point						PDCG-060										
+Therizinosaurus	PDCG	PDCG-061	Primal	Void	6	3	2000	2000	[Win:Primal] Choose 1:	Discard 4 cards from the top of your deck.	Send 4 cards from your discard pile to your deck. Then shuffle your deck.	Your opponent discards the top 4 cards of their deck.			PDCG-061										
+Kosmoceratops	PDCG	PDCG-062	Primal	Void	5	3	1800	1800	[Auto] When this Primal is sent to your discard pile from your deck, you may play it. If you do, this Primal gains 200 Atk for the turn and "[Win:Primal] During your turn; your opponent loses 1 additional Life Point" to it's card text for the turn.						PDCG-062										
+Carcharodontosaurus	PDCG	PDCG-063	Primal	Void	4	2	1600	1700	[Auto] When this Primal is sent to your discard pile from your deck, you may play it from your discard pile						PDCG-063										
+Kamuysaurus	PDCG	PDCG-064	Primal	Void	4	2	1700	1600	[Win:Primal] During your turn; Both you and your opponent discard cards from the top of your deck equal to the number of Life Points lost that battle.						PDCG-064										
+Abydosaurus	PDCG	PDCG-065	Primal	Void	3	2	1500	1400	[Play] Your opponent may choose to lose 1 Life Point. If they don't, both you and your opponent discard 2 cards from the top of your deck						PDCG-065										
+Prognathodon	PDCG	PDCG-066	Primal	Void	3	2	1400	1500	[Auto] When this Primal is sent to your discard pile, your opponent loses 1 Life Point						PDCG-066										
+Minotaurasaurus	PDCG	PDCG-067	Primal	Void	2	1	1200	1300	[Auto] When this Primal is sent to your discard pile, you may add 1 card from your discard pile to your hand.						PDCG-067										
+Utahraptor	PDCG	PDCG-068	Primal	Void	2	1	1300	1200	[Play] Both you and your opponent discard the top card of your deck						PDCG-068										
+Hatzegopteryx	PDCG	PDCG-069	Primal	Void	1	1	1000	1100	[Play] Look at the top three cards of your deck. Select 1 Void Primal from among them and add it to your hand, then send the remaining cards to the bottom of your deck.						PDCG-069										
+Arctotherium	PDCG	PDCG-070	Primal	Void	1	1	1100	1000	[Auto] When this Primal is sent to your discard pile, draw a card						PDCG-070										
+Thermal Grave	PDCG	PDCG-071	Super Move	Fire			+400		If you win this battle during your turn, your opponent loses 1 additional Life Point.						PDCG-071										
+Igneous Hammer	PDCG	PDCG-072	Super Move	Fire			+1000		You can only play this move during your turn						PDCG-072										
+Heart of Fire	PDCG	PDCG-073	Super Move	Fire			+800		(Vanilla)						PDCG-073										
+Cold Snap	PDCG	PDCG-074	Super Move	Frost			+300		If you win this battle, play a beacon from your hand						PDCG-074										
+Frost Bite	PDCG	PDCG-075	Super Move	Frost			+400		If you win this battle, draw a card						PDCG-075										
+Heart of Frost	PDCG	PDCG-076	Super Move	Frost			+800		(Vanilla)						PDCG-076										
+Zephyr Blade	PDCG	PDCG-077	Super Move	Wind			+300		If you win this battle, choose one of your opponent's Primal's in play and discard it.						PDCG-077										
+Vexing Gale	PDCG	PDCG-078	Super Move	Wind			+400		If you win this battle, your opponent discards a card from their hand						PDCG-078										
+Heart of Wind	PDCG	PDCG-079	Super Move	Wind			+800		(Vanilla)						PDCG-079										
+Terra Tomb	PDCG	PDCG-080	Super Move	Earth			+400		If you win this battle during your opponent's turn, choose 1 of your opponent's Primals, it can't attack this turn.						PDCG-080										
+Rocky Phalanx	PDCG	PDCG-081	Super Move	Earth			+1000		You can only play this move during your opponent's turn.						PDCG-081										
+Heart of Earth	PDCG	PDCG-082	Super Move	Earth			+800		(Vanilla)						PDCG-082										
+Power Amp	PDCG	PDCG-083	Super Move	Electric			+300		If you win this battle, search your deck for a Primal with a charge equal to or less than the defeated Primal.						PDCG-083										
+Voltaic Charge	PDCG	PDCG-084	Super Move	Electric			+400		If you win this battle, you may play a Primal from your hand with a charge equal to or less than the defeated Primal						PDCG-084										
+Heart of Thunder	PDCG	PDCG-085	Super Move	Electric			+800		(Vanilla)						PDCG-085										
+Tact Refresher	PDCG	PDCG-086	Super Move	Water			+300		If you win this battle, gain 1 Life Point						PDCG-086										
+Miracle Wave	PDCG	PDCG-087	Super Move	Water			+400		If you win this battle, choose 1:	All of your Primals gain +100 Atk Power till the start of your next turn.	All of your Primals gain +100 Def Power till the start of your next turn				PDCG-087										
+Heart of Water	PDCG	PDCG-088	Super Move	Water			+800		(Vanilla)						PDCG-088										
+Necro Call	PDCG	PDCG-089	Super Move	Void			+300		If you win this battle, choose 1 card in your discard pile and add it to your hand.						PDCG-089										
+Soul Syphon	PDCG	PDCG-090	Super Move	Void			+400		If you win this battle, both you and your opponent discard cards from the top of your decks equal to the Life Points of the defeated Primal.						PDCG-090										
+Heart of Void	PDCG	PDCG-091	Super Move	Void			+800		(Vanilla)						PDCG-091										
+Reverse Polarity	PDCG	PDCG-092	Move	Neutral			+400		If you're attacking, use this Primal's Def Power. If you're defending, use this Primal's Atk.						PDCG-092										
+Renewed Vigor	PDCG	PDCG-093	Move	Neutral			+200		If you win this battle, choose one of your rested Primals and switch it to active mode						PDCG-093										
+Pylon Fusion	PDCG	PDCG-094	Move	Neutral			+300		This move gains +100 Power for every one of your beacons in play						PDCG-094										
+Huntmaster's Creed	PDCG	PDCG-095	Move	Neutral			+100		If you win this batle, your opponent loses 1 additional Life Point						PDCG-095										
+Venerate Me	PDCG	PDCG-096	Move	Neutral			+200 or +1500		If you have 5 or less life, this Move give +1500 Power instead of +200						PDCG-096										
+Primal Tempo	PDCG	PDCG-097	Move	Neutral			+500		(Vanilla)						PDCG-097										
+Atomic Misfire	PDCG	PDCG-098	Move	Neutral			+800		Even if you win this battle, your Primal is sent to your discard pile and you lose Life Points equal to its Life.						PDCG-098										
+Predator Instinct	PDCG	PDCG-099	Move	Neutral			+300 or+600		If you use this move during your turn, it gives +600 Power instead of +300						PDCG-099										
+Ironclad	PDCG	PDCG-100	Move	Neutral			+300 or+600		If you use this move during your opponent's turn, it gives +600 Power instead of +300						PDCG-100										
+Stable Beacon	PDCG	PDCG-101	Beacon		1			1800							PDCG-101										
+Unstable Beacon	PDCG	PDCG-102	Beacon		2			1600							PDCG-102										
+Experimental Beacon	PDCG	PDCG-103	Beacon		3			1400							PDCG-103										
+Theoretical Beacon	PDCG	PDCG-104	Beacon		4			1200							PDCG-104										
+Magnus Hohlt	PDCG	PDCG-105	Character										[Permanent] Your Fire Primals gain +100 Atk Power	[Activate] Choose 1 of your Fire Primals in play; Place this card under the chosen Primal. The chosen Primal gains +500 Atk Power until it loses a battle. 	PDCG-105										
+Vale Crywell	PDCG	PDCG-106	Character										[Win:Primal] Once per turn, When one of your Frost Primals wins a battle during your turn: draw 2 cards.	[Activate] Shuffle your discard pile face down. Put the top 15 cards back into your deck. All other cards remain in your discard pile.	PDCG-106										
+Elizabeth "Beetle" Azure	PDCG	PDCG-107	Character										[Win:Primal] Once per turn; When one of your Wind Primals wins a battle during your turn; your opponent must choose 1 card from their hand to discard.	[Activate] Choose 1 of your opponents Primals in play to send to their discard pile, they do not lose Life Points. All other opponent Primals in play return to their hand.	PDCG-107										
+Isaac Ridley	PDCG	PDCG-108	Character										[Permanent] Your Earth Primals gain +100 Def Power.	[Activate] Choose 1 of your Earth Primals in play; Place this card under the chosen Primal. It gains +500 Def Power until it loses a battle. 	PDCG-108										
+Andrei Elding	PDCG	PDCG-109	Character										[Win:Primal] Once per turn, When one of your Electric Primals wins a battle during your turn; you can search your deck for another copy of this Primal and put it in your hand. Then shuffle your deck	[Activate] Flip over the top 5 cards of your deck and if there are any Electric Primals, summon them. If at least 3 of the cards are Electric type, add the rest of the cards to your hand. Otherwise discard the remainder of the 5 cards.	PDCG-109										
+Vay Lynn Cooper	PDCG	PDCG-110	Character										[Win:Primal] Once per turn, When you win a battle with a Water Primal during your turn; You gain Life Points equal to half your opponents losing Primals life value, rounded up.	[Activate] Heal 3 Life Points.	PDCG-110										
+Avidar Kren	PDCG	PDCG-111	Character										[Win:Primal] Once per turn, When one of your Void Primals wins a battle during your turn; both you and your opponent must discard the top 2 cards on your decks.	[Activate] You or your opponent discard cards from the top of their deck equal to the amount of cards in their hand.	PDCG-111										
+James McCallister	PDCG	PDCG-112	Character										[Auto] During your turn, when you win a battle using a super move; Your opponent loses 1 extra Life Point.	[Activate] Choose 1 of your Primals in play; Place this card under the chosen Primal. When that Primal wins a battle during your turn, the opponent loses 2 extra Life Points.	PDCG-112										
+Anomoly	PDCG	PDCG-113	Character										[Auto] Once per turn during your draw phase, you may discard a card from your hand and draw a new one.	[Activate] Search your deck for 3 cards of your choice and put them in your hand. Then shuffle your deck.	PDCG-113										
+Enzo Jones	PDCG	PDCG-114	Character										[Permanent] Each of your Primals in play gains +50 Defense Power for each additional Primal in play on your side of the field.	[Activate] Chose 1 of your Primals in play; Place this card under the chosen Primal. The next time this Primal loses a battle, it stays in play and you lose 1 Life Point.	PDCG-114										
+Scarlett Floyd	PDCG	PDCG-115	Character										[Auto] During your end phase, if you have at least 1 Primal in play, place 1 card from your draw pile under this card.	[Activate] Move all cards under this card into your hand	PDCG-115										
+Prof. Marc Aesh	PDCG	PDCG-116	Character										[Auto] Once per turn, when one of your Primals wins a battle during your turn,; you can play a beacon card.	[Activate] During your turn, you can play this card as a beacon card that gives +4 Charge with 1 Durability and 1800 Defense Power.”	PDCG-116										
+John Smith	PDCG	PDCG-117	Character										[Auto] If you and your opponent tie during a battle; your Primal wins the battle	[Activate] If your opponent has at least 4 Life Points more than you; You can play this card to gain 2 Life Points and cause your opponent to lose 2 Life Points.	PDCG-117										
+Solaris Pendergast	PDCG	PDCG-118	Character										[Auto] At the end of your turn, if your opponent has no Primals in play, they lose 1 Life Point. (Unless you are going first and its your first turn)	After you lose a battle, you can play this card to not lose any Life Points from the battle.”	PDCG-118										
+Astra Barton	PDCG	PDCG-119	Character										[Activate] Once per turn; You may recall a Primal in play to your hand. If you do, you cannot summon that Primal until the start of your next turn.	[Activate] Play this card to retrieve 2 Primals from your Discard Pile and put them into your hand.	PDCG-119										
+Kuromi Toragane	PDCG	PDCG-120	Character										[Auto] During your start phase, you may choose 1 of your opponents Primals in play to return to their hand.	[Activate] Take control of an opponents Primal in play until it is defeated. Turn the chosen Primal upside down.	PDCG-120										
+Dracorex	PDEX	PDEX-001	Primal	Fire	5	3	1900	1700	[Play] Your opponent loses 1 Life Point and this Primal gains +300 Atk for the turn.						PDEX-001										
+Metriacanthosaurus	PDEX	PDEX-002	Primal	Frost	5	3	1800	1800	[Play] Choose 1:	This Primal gains +100 Atk for every beacon you have in play.	This Primal gains +100 Def for every beacon you have in play.				PDEX-002										
+Tanycolagreus	PDEX	PDEX-003	Primal	Wind	5	3	1800	1800	[Play] Choose 3 Primals in play and return them to their owner's hands.						PDEX-003										
+Polacanthus	PDEX	PDEX-004	Primal	Earth	5	3	1700	1900	[Permanent] This Primal gains +50 Def for each additional Primal on your field. [Auto] At the end of your opponent's turn, they must choos 1 card in their hand and discard it.						PDEX-004										
+Anzu	PDEX	PDEX-005	Primal	Electric	5	3	1900	1700	[Win:Primal] During your turn: Reveal cards from the top of your deck until you reveal a Primal. Summon the revealed Primal, then place any additional revealed cards on the bottom of your deck.						PDEX-005										
+Spinosaurus	PDEX	PDEX-006	Primal	Water	5	3	1700	1900	[Auto] If one of your other Primals won a battle in which it was affected by another one of your Primal's abilities; This Primal gains +150 Atk/Def until the start of your next turn.						PDEX-006										
+Galeamopus	PDEX	PDEX-007	Primal	Void	5	3	1800	1800	[Auto] When this Primal is sent to your discard pile from your deck, you may play it. If you do, then you and your opponent discard cards from the top of your decks equal to the amount of Primals you each have in play.						PDEX-007										
+Stoked Ambition	PDEX	PDEX-008	Super Move	Fire			+400		This move gains +100 Power for each life point your opponent would lose if you won this battle.						PDEX-008										
+Golden Age Ice	PDEX	PDEX-009	Super Move	Frost			+500		If you win this battle against a primal, draw cards until you have more cards in your hand than your opponent. This move can only be played if your opponents hand is larger than yours.						PDEX-009										
+Conquering Winds	PDEX	PDEX-010	Super Move	Wind			+500		If you win this battle against another primal, your opponent must discard cards from their hand until they have less cards in their hand than you. This move can only be played if your opponents hand is larger than yours.						PDEX-010										
+Immovable Object	PDEX	PDEX-011	Super Move	Earth			+200		If you win this battle during your opponents turn, your opponents turn ends.						PDEX-011										
+Cross Eyed Pleas	PDEX	PDEX-012	Super Move	Electric			+300		If you have multiple copies of this primal in play, the power of this move is half of the total attack power of your additional copies. All copies of this primal get rested. You can only play this card during your turn.						PDEX-012										
+Book of Rememberance	PDEX	PDEX-013	Super Move	Water			+500		If you win this battle, choose 1 card in your discard pile and add it to your hand.						PDEX-013										
+Call of the Void	PDEX	PDEX-014	Super Move	Void			+500		When this card goes to your discard pile, your opponent must discard a card from the top of their deck						PDEX-014										
+Inferno Maw	PDEX	PDEX-015	Move	Neutral			+400 or +700		If this Primal is a Fire Primal, this Primal gains +700 Power instead of +400.						PDEX-015										
+Glacial Maw	PDEX	PDEX-016	Move	Neutral			+400 or +700		If this Primal is a Frost Primal, this Primal gains +700 Power instead of +400.						PDEX-016										
+Ether Maw	PDEX	PDEX-017	Move	Neutral			+400 or +700		If this Primal is a Wind Primal, this Primal gains +700 Power instead of +400.						PDEX-017										
+Terra Maw	PDEX	PDEX-018	Move	Neutral			+400 or +700		If this Primal is a Earth Primal, this Primal gains +700 Power instead of +400.						PDEX-018										
+Ampere Maw	PDEX	PDEX-019	Move	Neutral			+400 or +700		If this Primal is a Electric Primal, this Primal gains +700 Power instead of +400.						PDEX-019										
+Tidal Maw	PDEX	PDEX-020	Move	Neutral			+400 or +700		If this Primal is a Water Primal, this Primal gains +700 Power instead of +400.						PDEX-020										
+Dubious Maw	PDEX	PDEX-021	Move	Neutral			+400 or +700		If this Primal is a Void Primal, this Primal gains +700 Power instead of +400.						PDEX-021										
+Discombobulate	PDEX	PDEX-022	Move	Neutral			+100		If you use this move card before your opponent, your opponent cannot use a move card.						PDEX-022										
+Quarter Infinity	PDEX	PDEX-023	Move	Neutral			+100		If you win this battle against a primal, search your deck for another copy of this card and put it in your hand. Shuffle your deck.						PDEX-023										
+Fight and Flight	PDEX	PDEX-024	Move	Neutral			+100		If you win this battle against a primal, you may return the primal that used this to your hand. You cannot summon this primal until your next turn.						PDEX-024										
+Sturdy Stance	PDEX	PDEX-025	Move	Neutral			+100		If you win this battle during your opponents turn, your opponent cannot direct attack you this turn.						PDEX-025										
+Endeavor	PDEX	PDEX-026	Move	Neutral			+400		If you lose this battle, this card returns to your hand.						PDEX-026										
+Vitality	PDEX	PDEX-027	Move	Neutral			+100		If you win this battle, gain 1 life point.						PDEX-027										
+Second Chance	PDEX	PDEX-028	Move	Neutral			+300		If you win this battle, move the top card of your discard pile to the bottom of your deck						PDEX-028										
