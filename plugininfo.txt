@@ -14,6 +14,10 @@
 <label>Character</label>
 </deckzone>
 
+<deckzone>
+<label>Beacon</label>
+</deckzone>
+
 <gamezone>
 	<label>Hand</label>
 	<visibletoowner>yes</visibletoowner>
@@ -34,6 +38,11 @@
             <label>Character</label>
             <visibletoowner>yes</visibletoowner>
             <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Beacon</label>
+	<visibletoowner>no</visibletoowner>
 </gamezone>
 
 <generalfunction>
