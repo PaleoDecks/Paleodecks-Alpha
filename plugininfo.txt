@@ -16,6 +16,7 @@
 
 <deckzone>
 <label>Beacon</label>
+<shuffle>yes</shuffle>
 </deckzone>
 
 <gamezone>
